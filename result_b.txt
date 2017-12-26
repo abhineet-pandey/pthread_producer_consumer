@@ -1,0 +1,200 @@
+Inset the element in queue : 4096  and no. of elements in queue is 1 
+Inset the element in queue : 8192  and no. of elements in queue is 2 
+Inset the element in queue : 12288  and no. of elements in queue is 3 
+Inset the element in queue : 16384  and no. of elements in queue is 4 
+Inset the element in queue : 20480  and no. of elements in queue is 5 
+Inset the element in queue : 24576  and no. of elements in queue is 6 
+Inset the element in queue : 28672  and no. of elements in queue is 7 
+Inset the element in queue : 32768  and no. of elements in queue is 8 
+Inset the element in queue : 36864  and no. of elements in queue is 9 
+Inset the element in queue : 40960  and no. of elements in queue is 10 
+Inset the element in queue : 45056  and no. of elements in queue is 11 
+Inset the element in queue : 49152  and no. of elements in queue is 12 
+Inset the element in queue : 53248  and no. of elements in queue is 13 
+Inset the element in queue : 57344  and no. of elements in queue is 14 
+Inset the element in queue : 61440  and no. of elements in queue is 15 
+Inset the element in queue : 65536  and no. of elements in queue is 16 
+Inset the element in queue : 69632  and no. of elements in queue is 17 
+Inset the element in queue : 73728  and no. of elements in queue is 18 
+Inset the element in queue : 77824  and no. of elements in queue is 19 
+Inset the element in queue : 81920  and no. of elements in queue is 20 
+Inset the element in queue : 86016  and no. of elements in queue is 21 
+Inset the element in queue : 90112  and no. of elements in queue is 22 
+Inset the element in queue : 94208  and no. of elements in queue is 23 
+Inset the element in queue : 98304  and no. of elements in queue is 24 
+Inset the element in queue : 102400  and no. of elements in queue is 25 
+Inset the element in queue : 106496  and no. of elements in queue is 26 
+Inset the element in queue : 110592  and no. of elements in queue is 27 
+Inset the element in queue : 114688  and no. of elements in queue is 28 
+Inset the element in queue : 118784  and no. of elements in queue is 29 
+Inset the element in queue : 122880  and no. of elements in queue is 30 
+Inset the element in queue : 126976  and no. of elements in queue is 31 
+Inset the element in queue : 131072  and no. of elements in queue is 32 
+		Element deleted from queue is : 4096	new front item is 8192 and rear item is 131072 and queue value is 31
+Inset the element in queue : 135168  and no. of elements in queue is 32 
+		Element deleted from queue is : 8192	new front item is 12288 and rear item is 135168 and queue value is 31
+Inset the element in queue : 139264  and no. of elements in queue is 32 
+		Element deleted from queue is : 12288	new front item is 16384 and rear item is 139264 and queue value is 31
+Inset the element in queue : 143360  and no. of elements in queue is 32 
+		Element deleted from queue is : 16384	new front item is 20480 and rear item is 143360 and queue value is 31
+Inset the element in queue : 147456  and no. of elements in queue is 32 
+		Element deleted from queue is : 20480	new front item is 24576 and rear item is 147456 and queue value is 31
+Inset the element in queue : 151552  and no. of elements in queue is 32 
+		Element deleted from queue is : 24576	new front item is 28672 and rear item is 151552 and queue value is 31
+Inset the element in queue : 155648  and no. of elements in queue is 32 
+		Element deleted from queue is : 28672	new front item is 32768 and rear item is 155648 and queue value is 31
+Inset the element in queue : 159744  and no. of elements in queue is 32 
+		Element deleted from queue is : 32768	new front item is 36864 and rear item is 159744 and queue value is 31
+Inset the element in queue : 163840  and no. of elements in queue is 32 
+		Element deleted from queue is : 36864	new front item is 40960 and rear item is 163840 and queue value is 31
+Inset the element in queue : 167936  and no. of elements in queue is 32 
+		Element deleted from queue is : 40960	new front item is 45056 and rear item is 167936 and queue value is 31
+Inset the element in queue : 172032  and no. of elements in queue is 32 
+		Element deleted from queue is : 45056	new front item is 49152 and rear item is 172032 and queue value is 31
+Inset the element in queue : 176128  and no. of elements in queue is 32 
+		Element deleted from queue is : 49152	new front item is 53248 and rear item is 176128 and queue value is 31
+Inset the element in queue : 180224  and no. of elements in queue is 32 
+		Element deleted from queue is : 53248	new front item is 57344 and rear item is 180224 and queue value is 31
+Inset the element in queue : 184320  and no. of elements in queue is 32 
+		Element deleted from queue is : 57344	new front item is 61440 and rear item is 184320 and queue value is 31
+Inset the element in queue : 188416  and no. of elements in queue is 32 
+		Element deleted from queue is : 61440	new front item is 65536 and rear item is 188416 and queue value is 31
+Inset the element in queue : 192512  and no. of elements in queue is 32 
+		Element deleted from queue is : 65536	new front item is 69632 and rear item is 192512 and queue value is 31
+Inset the element in queue : 196608  and no. of elements in queue is 32 
+		Element deleted from queue is : 69632	new front item is 73728 and rear item is 196608 and queue value is 31
+Inset the element in queue : 200704  and no. of elements in queue is 32 
+		Element deleted from queue is : 73728	new front item is 77824 and rear item is 200704 and queue value is 31
+Inset the element in queue : 204800  and no. of elements in queue is 32 
+		Element deleted from queue is : 77824	new front item is 81920 and rear item is 204800 and queue value is 31
+Inset the element in queue : 208896  and no. of elements in queue is 32 
+		Element deleted from queue is : 81920	new front item is 86016 and rear item is 208896 and queue value is 31
+Inset the element in queue : 212992  and no. of elements in queue is 32 
+		Element deleted from queue is : 86016	new front item is 90112 and rear item is 212992 and queue value is 31
+Inset the element in queue : 217088  and no. of elements in queue is 32 
+		Element deleted from queue is : 90112	new front item is 94208 and rear item is 217088 and queue value is 31
+Inset the element in queue : 221184  and no. of elements in queue is 32 
+		Element deleted from queue is : 94208	new front item is 98304 and rear item is 221184 and queue value is 31
+Inset the element in queue : 225280  and no. of elements in queue is 32 
+		Element deleted from queue is : 98304	new front item is 102400 and rear item is 225280 and queue value is 31
+Inset the element in queue : 229376  and no. of elements in queue is 32 
+		Element deleted from queue is : 102400	new front item is 106496 and rear item is 229376 and queue value is 31
+Inset the element in queue : 233472  and no. of elements in queue is 32 
+		Element deleted from queue is : 106496	new front item is 110592 and rear item is 233472 and queue value is 31
+Inset the element in queue : 237568  and no. of elements in queue is 32 
+		Element deleted from queue is : 110592	new front item is 114688 and rear item is 237568 and queue value is 31
+Inset the element in queue : 241664  and no. of elements in queue is 32 
+		Element deleted from queue is : 114688	new front item is 118784 and rear item is 241664 and queue value is 31
+Inset the element in queue : 245760  and no. of elements in queue is 32 
+		Element deleted from queue is : 118784	new front item is 122880 and rear item is 245760 and queue value is 31
+Inset the element in queue : 249856  and no. of elements in queue is 32 
+		Element deleted from queue is : 122880	new front item is 126976 and rear item is 249856 and queue value is 31
+Inset the element in queue : 253952  and no. of elements in queue is 32 
+		Element deleted from queue is : 126976	new front item is 131072 and rear item is 253952 and queue value is 31
+Inset the element in queue : 258048  and no. of elements in queue is 32 
+		Element deleted from queue is : 131072	new front item is 135168 and rear item is 258048 and queue value is 31
+Inset the element in queue : 262144  and no. of elements in queue is 32 
+		Element deleted from queue is : 135168	new front item is 139264 and rear item is 262144 and queue value is 31
+Inset the element in queue : 266240  and no. of elements in queue is 32 
+		Element deleted from queue is : 139264	new front item is 143360 and rear item is 266240 and queue value is 31
+Inset the element in queue : 270336  and no. of elements in queue is 32 
+		Element deleted from queue is : 143360	new front item is 147456 and rear item is 270336 and queue value is 31
+Inset the element in queue : 274432  and no. of elements in queue is 32 
+		Element deleted from queue is : 147456	new front item is 151552 and rear item is 274432 and queue value is 31
+Inset the element in queue : 278528  and no. of elements in queue is 32 
+		Element deleted from queue is : 151552	new front item is 155648 and rear item is 278528 and queue value is 31
+Inset the element in queue : 282624  and no. of elements in queue is 32 
+		Element deleted from queue is : 155648	new front item is 159744 and rear item is 282624 and queue value is 31
+Inset the element in queue : 286720  and no. of elements in queue is 32 
+		Element deleted from queue is : 159744	new front item is 163840 and rear item is 286720 and queue value is 31
+Inset the element in queue : 290816  and no. of elements in queue is 32 
+		Element deleted from queue is : 163840	new front item is 167936 and rear item is 290816 and queue value is 31
+Inset the element in queue : 294912  and no. of elements in queue is 32 
+		Element deleted from queue is : 167936	new front item is 172032 and rear item is 294912 and queue value is 31
+Inset the element in queue : 299008  and no. of elements in queue is 32 
+		Element deleted from queue is : 172032	new front item is 176128 and rear item is 299008 and queue value is 31
+Inset the element in queue : 303104  and no. of elements in queue is 32 
+		Element deleted from queue is : 176128	new front item is 180224 and rear item is 303104 and queue value is 31
+Inset the element in queue : 307200  and no. of elements in queue is 32 
+		Element deleted from queue is : 180224	new front item is 184320 and rear item is 307200 and queue value is 31
+Inset the element in queue : 311296  and no. of elements in queue is 32 
+		Element deleted from queue is : 184320	new front item is 188416 and rear item is 311296 and queue value is 31
+Inset the element in queue : 315392  and no. of elements in queue is 32 
+		Element deleted from queue is : 188416	new front item is 192512 and rear item is 315392 and queue value is 31
+Inset the element in queue : 319488  and no. of elements in queue is 32 
+		Element deleted from queue is : 192512	new front item is 196608 and rear item is 319488 and queue value is 31
+Inset the element in queue : 323584  and no. of elements in queue is 32 
+		Element deleted from queue is : 196608	new front item is 200704 and rear item is 323584 and queue value is 31
+Inset the element in queue : 327680  and no. of elements in queue is 32 
+		Element deleted from queue is : 200704	new front item is 204800 and rear item is 327680 and queue value is 31
+Inset the element in queue : 331776  and no. of elements in queue is 32 
+		Element deleted from queue is : 204800	new front item is 208896 and rear item is 331776 and queue value is 31
+Inset the element in queue : 335872  and no. of elements in queue is 32 
+		Element deleted from queue is : 208896	new front item is 212992 and rear item is 335872 and queue value is 31
+Inset the element in queue : 339968  and no. of elements in queue is 32 
+		Element deleted from queue is : 212992	new front item is 217088 and rear item is 339968 and queue value is 31
+Inset the element in queue : 344064  and no. of elements in queue is 32 
+		Element deleted from queue is : 217088	new front item is 221184 and rear item is 344064 and queue value is 31
+Inset the element in queue : 348160  and no. of elements in queue is 32 
+		Element deleted from queue is : 221184	new front item is 225280 and rear item is 348160 and queue value is 31
+Inset the element in queue : 352256  and no. of elements in queue is 32 
+		Element deleted from queue is : 225280	new front item is 229376 and rear item is 352256 and queue value is 31
+Inset the element in queue : 356352  and no. of elements in queue is 32 
+		Element deleted from queue is : 229376	new front item is 233472 and rear item is 356352 and queue value is 31
+Inset the element in queue : 360448  and no. of elements in queue is 32 
+		Element deleted from queue is : 233472	new front item is 237568 and rear item is 360448 and queue value is 31
+Inset the element in queue : 364544  and no. of elements in queue is 32 
+		Element deleted from queue is : 237568	new front item is 241664 and rear item is 364544 and queue value is 31
+Inset the element in queue : 368640  and no. of elements in queue is 32 
+		Element deleted from queue is : 241664	new front item is 245760 and rear item is 368640 and queue value is 31
+Inset the element in queue : 372736  and no. of elements in queue is 32 
+		Element deleted from queue is : 245760	new front item is 249856 and rear item is 372736 and queue value is 31
+Inset the element in queue : 376832  and no. of elements in queue is 32 
+		Element deleted from queue is : 249856	new front item is 253952 and rear item is 376832 and queue value is 31
+Inset the element in queue : 380928  and no. of elements in queue is 32 
+		Element deleted from queue is : 253952	new front item is 258048 and rear item is 380928 and queue value is 31
+Inset the element in queue : 385024  and no. of elements in queue is 32 
+		Element deleted from queue is : 258048	new front item is 262144 and rear item is 385024 and queue value is 31
+Inset the element in queue : 389120  and no. of elements in queue is 32 
+		Element deleted from queue is : 262144	new front item is 266240 and rear item is 389120 and queue value is 31
+Inset the element in queue : 393216  and no. of elements in queue is 32 
+		Element deleted from queue is : 266240	new front item is 270336 and rear item is 393216 and queue value is 31
+Inset the element in queue : 397312  and no. of elements in queue is 32 
+		Element deleted from queue is : 270336	new front item is 274432 and rear item is 397312 and queue value is 31
+Inset the element in queue : 401408  and no. of elements in queue is 32 
+		Element deleted from queue is : 274432	new front item is 278528 and rear item is 401408 and queue value is 31
+Inset the element in queue : 405504  and no. of elements in queue is 32 
+		Element deleted from queue is : 278528	new front item is 282624 and rear item is 405504 and queue value is 31
+Inset the element in queue : 409600  and no. of elements in queue is 32 
+		Element deleted from queue is : 282624	new front item is 286720 and rear item is 409600 and queue value is 31
+		Element deleted from queue is : 286720	new front item is 290816 and rear item is 409600 and queue value is 30
+		Element deleted from queue is : 290816	new front item is 294912 and rear item is 409600 and queue value is 29
+		Element deleted from queue is : 294912	new front item is 299008 and rear item is 409600 and queue value is 28
+		Element deleted from queue is : 299008	new front item is 303104 and rear item is 409600 and queue value is 27
+		Element deleted from queue is : 303104	new front item is 307200 and rear item is 409600 and queue value is 26
+		Element deleted from queue is : 307200	new front item is 311296 and rear item is 409600 and queue value is 25
+		Element deleted from queue is : 311296	new front item is 315392 and rear item is 409600 and queue value is 24
+		Element deleted from queue is : 315392	new front item is 319488 and rear item is 409600 and queue value is 23
+		Element deleted from queue is : 319488	new front item is 323584 and rear item is 409600 and queue value is 22
+		Element deleted from queue is : 323584	new front item is 327680 and rear item is 409600 and queue value is 21
+		Element deleted from queue is : 327680	new front item is 331776 and rear item is 409600 and queue value is 20
+		Element deleted from queue is : 331776	new front item is 335872 and rear item is 409600 and queue value is 19
+		Element deleted from queue is : 335872	new front item is 339968 and rear item is 409600 and queue value is 18
+		Element deleted from queue is : 339968	new front item is 344064 and rear item is 409600 and queue value is 17
+		Element deleted from queue is : 344064	new front item is 348160 and rear item is 409600 and queue value is 16
+		Element deleted from queue is : 348160	new front item is 352256 and rear item is 409600 and queue value is 15
+		Element deleted from queue is : 352256	new front item is 356352 and rear item is 409600 and queue value is 14
+		Element deleted from queue is : 356352	new front item is 360448 and rear item is 409600 and queue value is 13
+		Element deleted from queue is : 360448	new front item is 364544 and rear item is 409600 and queue value is 12
+		Element deleted from queue is : 364544	new front item is 368640 and rear item is 409600 and queue value is 11
+		Element deleted from queue is : 368640	new front item is 372736 and rear item is 409600 and queue value is 10
+		Element deleted from queue is : 372736	new front item is 376832 and rear item is 409600 and queue value is 9
+		Element deleted from queue is : 376832	new front item is 380928 and rear item is 409600 and queue value is 8
+		Element deleted from queue is : 380928	new front item is 385024 and rear item is 409600 and queue value is 7
+		Element deleted from queue is : 385024	new front item is 389120 and rear item is 409600 and queue value is 6
+		Element deleted from queue is : 389120	new front item is 393216 and rear item is 409600 and queue value is 5
+		Element deleted from queue is : 393216	new front item is 397312 and rear item is 409600 and queue value is 4
+		Element deleted from queue is : 397312	new front item is 401408 and rear item is 409600 and queue value is 3
+		Element deleted from queue is : 401408	new front item is 405504 and rear item is 409600 and queue value is 2
+		Element deleted from queue is : 405504	new front item is 409600 and rear item is 409600 and queue value is 1
+		Element deleted from queue is : 409600	new front item is 0 and rear item is 409600 and queue value is 0
