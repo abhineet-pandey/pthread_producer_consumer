@@ -1,8 +1,8 @@
 //////////////////////////////////////////////////
-// Programming Assignment 1                     //
+// Program Part 2                               //
 // Abhineet Pandey                              //
-// NetId Ap768383                               //
-// Without Semaphore 				//
+//                                              //
+// Without Semaphore             				//
 //////////////////////////////////////////////////
 
 #include <stdio.h>
