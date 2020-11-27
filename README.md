@@ -4,4 +4,4 @@ The program demonstrate the producer consumer problem using a queue of size(fixe
 but the consumer consumes @ some delay.
 The producer needs to wait until the queue is less than max to produce and add it to queue.
 For better explanation see the result_a.txt
-In b.c semaphore is not used as a counting variable but an alternate uproach is used to gain the same result.
+In b.c semaphore is not used as a counting variable but an alternate approach is used to gain the same result.
